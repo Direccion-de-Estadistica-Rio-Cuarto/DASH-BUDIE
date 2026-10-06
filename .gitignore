@@ -1,0 +1,7 @@
+# Temporary files and scratch scripts
+scratch/
+.gemini/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
